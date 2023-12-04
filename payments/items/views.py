@@ -1,3 +1,9 @@
 from django.shortcuts import render
 
-# Create your views here.
+
+def buy(request, item_id):
+    ...
+
+
+def item_detail(request, item_id):
+    ...
